@@ -1,0 +1,39 @@
+Categories:
+  - System
+  - Theming
+License: Apache-2.0
+AuthorName: Nishant Kumar
+AuthorEmail: nissshhdev@gmail.com
+SourceCode: https://github.com/nissshh/HeyOD
+IssueTracker: https://github.com/nissshh/HeyOD/issues
+
+AutoName: HeyOD
+Summary: Cyber-minimalist Always-On Display with 60fps analog sweep & music controller
+Description: |-
+  HeyOD is a sleek, AMOLED-optimized Always-On Display (AOD) application for Android.
+
+  Features:
+  * 60 FPS smooth sweeping continuous analog clock with customizable dial options
+  * Glanceable digital clock and customizable week-strip calendar
+  * Battery percentage and emerald green charging indicators
+  * Native system notification badges with original app icons
+  * Integrated music & media playback controller with live transport controls
+  * Interactive drag-and-drop layout canvas editor with live scaling and color accent picker
+  * Pure AMOLED black (#000000) design with burn-in micro-shift protection
+  * 100% Free and Open Source without analytics, trackers, or proprietary bloat
+
+RepoType: git
+Repo: https://github.com/nissshh/HeyOD.git
+
+Builds:
+  - versionName: '1.0'
+    versionCode: 1
+    commit: v1.0.0
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags
+CurrentVersion: '1.0'
+CurrentVersionCode: 1
