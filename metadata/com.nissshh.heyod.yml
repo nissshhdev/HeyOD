@@ -4,8 +4,8 @@ Categories:
 License: Apache-2.0
 AuthorName: Nishant Kumar
 AuthorEmail: nissshhdev@gmail.com
-SourceCode: https://github.com/nissshh/HeyOD
-IssueTracker: https://github.com/nissshh/HeyOD/issues
+SourceCode: https://github.com/nissshhdev/HeyOD
+IssueTracker: https://github.com/nissshhdev/HeyOD/issues
 
 AutoName: HeyOD
 Summary: Cyber-minimalist Always-On Display with 60fps analog sweep & music controller
@@ -23,7 +23,7 @@ Description: |-
   * 100% Free and Open Source without analytics, trackers, or proprietary bloat
 
 RepoType: git
-Repo: https://github.com/nissshh/HeyOD.git
+Repo: https://github.com/nissshhdev/HeyOD.git
 
 Builds:
   - versionName: '1.0'
